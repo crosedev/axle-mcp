@@ -41,7 +41,7 @@ pip install mcp
 ### 2. Clone this repo
 
 ```bash
-git clone https://github.com/yourusername/axle-mcp
+git clone https://github.com/Vilin97/axle-mcp
 cd axle-mcp
 ```
 
